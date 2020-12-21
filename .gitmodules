@@ -1,3 +1,6 @@
 [submodule "FinancialMarketAnalysis"]
 	path = FinancialMarketAnalysis
 	url = https://github.com/r-poli/FinancialMarketAnalysis
+[submodule "ModernPorfolioTheory"]
+	path = ModernPorfolioTheory
+	url = https://github.com/r-poli/ModernPorfolioTheory
