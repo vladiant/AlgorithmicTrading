@@ -1,0 +1,3 @@
+[submodule "FinancialMarketAnalysis"]
+	path = FinancialMarketAnalysis
+	url = https://github.com/r-poli/FinancialMarketAnalysis
